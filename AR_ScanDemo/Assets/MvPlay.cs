@@ -8,6 +8,7 @@ public class MvPlay : MonoBehaviour
 
 
     // Use this for initialization
+    //播放视频
     void Start()
     {
 
