@@ -5,6 +5,7 @@ using UnityEngine;
 public class AR_Camera_set : MonoBehaviour {
 
     // Use this for initialization
+    //扫描聚焦
     private string label;
     private float touchduration;
     private Touch touch;
